@@ -1,2 +1,2 @@
 # clone-tabnews
-Aprendendo a fazer um projeto de fora a fora, do zero.
+Aprendendo a fazer um projeto de fora a fora.
